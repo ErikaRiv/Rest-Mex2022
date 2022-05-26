@@ -9,3 +9,5 @@ First, for the recommendation system, the problem is defined as:
 For the sentiment analysis, the problem is defined as follows:
 
 "Given an opinion about a Mexican tourist place, the goal is to determine the polarity, between 1 and 5, of the text. and the type of opinion (hotel, restaurant or attraction)"
+
+First place in recommendation system task and seventh places in sentiment analysis task. 
