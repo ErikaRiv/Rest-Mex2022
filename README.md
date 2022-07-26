@@ -11,3 +11,8 @@ For the sentiment analysis, the problem is defined as follows:
 "Given an opinion about a Mexican tourist place, the goal is to determine the polarity, between 1 and 5, of the text. and the type of opinion (hotel, restaurant or attraction)"
 
 First place in recommendation system task and seventh places in sentiment analysis task. 
+
+To appear at IberLEF 2022. 
+
+The Winning Approach for the Recommendation Systems Shared Task @REST_MEX 2022
+Cipriano Callejas-Hernández, Erika Rivadeneira-Pérez, Fernando Sánchez-Vega, Adrián Pastor López-Monroy, Esaú Villatoro-Tello.
